@@ -3,8 +3,8 @@ Code for how to generate Pascal Triangle for n rows
 
 
 /**
- * Function for generate Pascal Triangle for n rows
- * rows - Input to the function for number of rows
+ * Function for generating Pascal Triangle for n rows
+ * rows - Input to the function for the number of rows
  * output - Returns a 2D array with the values
  **/
  
