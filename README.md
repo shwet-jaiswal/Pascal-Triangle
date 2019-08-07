@@ -8,6 +8,9 @@ Code for how to generate Pascal Triangle for n rows
  * output - Returns a 2D array with the values
  **/
  
+
+
+
 function createPascalTriangle(rows) {
     var pascalTriangleArray = [];
     var temp;
